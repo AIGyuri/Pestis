@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 400%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.fokep{
+    max-width: 40%;
+    max-height: 40%;
+    padding: 30px;
+    margin: 50px;
+}
+
+
+
+p{
+    color: white;
+    font-size: 150%;
+    text-align: center;
+}
+
+.nagyk{
+    max-width: 50%;
+    max-height: 500%;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 200%;
+}
+
+.rata{
+    align-items: center;
+}
+
+.sok{
+ margin-left: 15%;
+ margin-right: 15%;
+ margin-top: 2%;
+}
+
+.nyilci{
+    max-width: 60px;
+    max-height: 60px;
+}
