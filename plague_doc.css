@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaini&display=swap');
+
+body {
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    background-image: url("plague_doc_pic/plg_doc_bg.jpg");
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    font-family: "Jaini", system-ui;
+    letter-spacing: 1px;
+    margin: 20px 0;
+}
+
+div{
+    background-color: rgba(150, 150, 150, 0.4);
+    display: block;
+    justify-content: center;
+    margin: 5px;
+    margin-inline: auto;
+    width: 830px;
+    padding: 0 100px;
+    border-radius: 10px;
+}
+
+#bevezetodiv{
+    background-color: rgba(150, 150, 150, 0.4);
+    display: block;
+    justify-content: center;
+    width: 1000px;
+    margin: 30, auto;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#plgdoc {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    float:left;
+    margin-right: 10px;
+}
+
+#plgcstm {
+    float: right;   
+    margin-left: 10px;
+}
+
+p {
+    line-height: 2rem;
+    height: 100%;
+    text-align: justify;
+}
+
+#bevezeto {
+    margin: 0 auto;
+    font-size: large;
+    line-height: 2rem;
+    height: 100%;
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    text-indent: 1rem;
+    text-decoration: underline;
+    font-size: larger;
+}
