@@ -71,3 +71,17 @@ h2 {
     text-decoration: underline;
     font-size: larger;
 }
+
+button {
+    background-color: rgb(15, 15, 15);
+    border-style:none;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 15px 0;
+    color: white
+}
+
+#button {
+    width:max-content;
+    padding: 0 15px;
+}
